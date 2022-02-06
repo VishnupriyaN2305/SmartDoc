@@ -1,0 +1,51 @@
+Patient_id,Decision_Tree_Prediction,Random_Forest_Classifier,KNN_Classifier,NaiveBayes_Classifier,Final_Decision
+1,Fungal infection,Fungal infection,Fungal infection,Fungal infection,Fungal infection
+2,Fungal infection,Fungal infection,Fungal infection,Fungal infection,Fungal infection
+3,Fungal infection,Fungal infection,Fungal infection,Fungal infection,Fungal infection
+4,Fungal infection,Fungal infection,Fungal infection,Fungal infection,Fungal infection
+5,Fungal infection,Fungal infection,Fungal infection,Fungal infection,Fungal infection
+6,Fungal infection,Fungal infection,Fungal infection,Fungal infection,Fungal infection
+7,Fungal infection,Fungal infection,Fungal infection,Fungal infection,Fungal infection
+8,Fungal infection,Fungal infection,Fungal infection,Fungal infection,Fungal infection
+9,Fungal infection,Fungal infection,Fungal infection,Fungal infection,Fungal infection
+10,Fungal infection,Fungal infection,Fungal infection,Fungal infection,Fungal infection
+11,Allergy,Allergy,Allergy,Allergy,Allergy
+12,Allergy,Allergy,Allergy,Allergy,Allergy
+13,Allergy,Allergy,Allergy,Allergy,Allergy
+14,Allergy,Allergy,Allergy,Allergy,Allergy
+15,Allergy,Allergy,Allergy,Allergy,Allergy
+16,Allergy,Allergy,Allergy,Allergy,Allergy
+17,Allergy,Allergy,Allergy,Allergy,Allergy
+18,Allergy,Allergy,Allergy,Allergy,Allergy
+19,Allergy,Allergy,Allergy,Allergy,Allergy
+20,Allergy,Allergy,Allergy,Allergy,Allergy
+21,GERD,GERD,GERD,GERD,GERD
+22,GERD,GERD,GERD,GERD,GERD
+23,GERD,GERD,GERD,GERD,GERD
+24,GERD,GERD,GERD,GERD,GERD
+25,GERD,GERD,GERD,GERD,GERD
+26,GERD,GERD,GERD,GERD,GERD
+27,GERD,GERD,GERD,GERD,GERD
+28,GERD,GERD,GERD,GERD,GERD
+29,GERD,GERD,GERD,GERD,GERD
+30,GERD,GERD,GERD,GERD,GERD
+31,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis
+32,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis
+33,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis
+34,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis
+35,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis
+36,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis
+37,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis
+38,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis
+39,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis
+40,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis,Chronic cholestasis
+41,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction
+42,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction
+43,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction
+44,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction
+45,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction
+46,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction
+47,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction
+48,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction
+49,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction
+50,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction,Drug Reaction
